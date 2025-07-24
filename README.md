@@ -1,1 +1,1 @@
-# exercicios-databricks-loja-virtual
+##Exercícios de SQL no Databricks, utilizando uma loja virtual fictícia.
